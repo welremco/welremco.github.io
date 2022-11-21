@@ -1,0 +1,84 @@
+- title: General Information
+  type: map
+  contents:
+    - name: Full Name
+      value: Remco Spelthan
+    - name: Title
+      value: Data Scientist
+    - name: Date of Birth
+      value: 30th January 2001
+    - name: Languages
+      value: English (C2), Dutch (C2)
+    - name: Programming Languages
+      value: Python, Java, C++, MATLAB, C, SQL
+    - name: Tools
+      value: Qiskit, PyTorch, TensorFlow, DEAP, NumPy, Pandas, Matplotlib
+
+
+- title: Education
+  type: time_table
+  contents:
+    - title: M.Sc. in Artificial Intelligence
+      institution: Maastricht University, Netherlands
+      year: SEP 2022 - PRESENT
+      description:
+        - title: Current Courses
+          contents:
+            - Intelligent Search and Games
+            - Foundations of Agents
+            - Advanced Concepts in Machine Learning
+            - Deep Learning for Image and Video Processing
+    - title: B.Sc. in Data Science and Artificial Intelligence
+      institution: Maastricht University, Netherlands
+      year: SEP 2019 - JUL 2022
+      description:
+        - Graduated with Honours, 7.67/10 GPA
+        - Rewarded 8.5/10 for bachelor thesis "CODA With Symbolic Regression"
+        - Participated in the DSAI Honours Programme KE@Work, rewarded 8.5/10
+
+- title: Experience
+  type: time_table
+  contents:
+    - title: Data Scientist
+      institution: APG, Netherlands
+      year: AUG 2022 - PRESENT
+      description:
+        - <b>Competences:</b> Python, DEAP, Symbolic Regression, Genetic Programming.
+        - title: Achievements
+          contents:
+            - Developed Symbolic Regression method that uses Genetic Programming to find functions for data clusters
+            - Successfully integrated Symbolic Regression program in company product.
+    - title: Data Science Intern
+      institution: APG, Netherlands
+      year: FEB 2021 - JUL 2022
+      description:
+        - Did research into different methods that could provide an advantage in checking correctness of data cluster formulas
+        - Started working on a Symbolic Regression method that uses Genetic Programming.
+
+
+
+- title: Honors and Awards
+  type: time_table
+  contents:
+    - year: FEB 2021 - AUG 2022
+      items: 
+        - Participation in the KE@Work honours programme, a part-time research internship in industry
+
+- title: Academic Interests
+  type: nested_list
+  contents:
+    - title: Classical Machine Learning.
+      items: 
+        - Computer Vision.
+        - Symbolic Regression.
+        - Genetic Programming.
+    - title: Quantum Machine Learning.
+      items:
+        - Quantum Kernel Machine Learning.
+        - Quantum Support Vector Machines.
+        - Quantum Generative Adversarial Network.
+
+- title: Other Interests
+  type: list
+  contents:
+    - <u>Hobbies:</u> Music, piano, guitar, bass guitar
