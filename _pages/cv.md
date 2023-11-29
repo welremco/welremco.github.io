@@ -4,5 +4,6 @@ permalink: /CV/
 title: CV
 nav: True
 nav_order: 4
-cv_pdf: Remco_Spelthan_Resume.pdf
+
+[//]: # (cv_pdf: new_cv_remco.docx)
 ---

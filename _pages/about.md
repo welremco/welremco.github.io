@@ -6,7 +6,7 @@ subtitle: <a>Affiliations</a>. Maastricht University, APG.
 
 profile:
   align: right
-  image: newpic_RSCV.JPG
+  image: newpic_RSCV.jpeg
   image_circular: false # crops the image to make it circular
   address: >
     <p>Kerkrade, The Netherlands</p>
