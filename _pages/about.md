@@ -6,7 +6,7 @@ subtitle: <a>Affiliations</a>. Maastricht University, APG.
 
 profile:
   align: right
-  image: remco_CVpic.jpeg
+  image: newpic_RSCV.JPG
   image_circular: false # crops the image to make it circular
   address: >
     <p>Kerkrade, The Netherlands</p>
@@ -20,8 +20,8 @@ I am a M.Sc. student in Artificial Intelligence at [Maastricht University](https
 at the same university. During my bachelor's, I worked on applied research in Symbolic Regression combined with Genetic Algorithms on pension fund administration
 data as an AI research intern at [APG](https://apg.nl/en/).
 
-My academic interests lie in Machine Learning and Artificial Intelligence, where my current focus lies on Quantum
-Machine Learning and Symbolic Regression. Further details can be found on the publications page, where you can find my preprints.
+Currently, I am a Physics | Data Science research intern at [ASML](https://www.asml.com/en), where I use Computer Vision methods such as Instance Segmentation to identify certain types of stains.
+My academic interests lie in Machine Learning and Artificial Intelligence, where my current focus lies on Computer Vision. Further details can be found on the projects page, where you can find reports of previous projects I worked on.
 
 In my personal time, I enjoy playing piano, guitar, and bass guitar.
 

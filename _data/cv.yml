@@ -12,7 +12,7 @@
     - name: Programming Languages
       value: Python, Java, C++, MATLAB, C, SQL
     - name: Tools
-      value: Qiskit, PyTorch, TensorFlow, DEAP, NumPy, Pandas, Matplotlib
+      value: PyTorch, TensorFlow, DEAP, NumPy, Qiskit, Pandas, Matplotlib
 
 
 - title: Education
@@ -39,9 +39,14 @@
 - title: Experience
   type: time_table
   contents:
+    - title: Physics | Data Science Intern
+      institution: ASML, The Netherlands
+      year: SEP 2023 - PRESENT
+      description:
+        - Researching different Computer Vision methods for stain identification on collector mirrors
     - title: Data Scientist
-      institution: APG, Netherlands
-      year: AUG 2022 - PRESENT
+      institution: APG, The Netherlands
+      year: AUG 2022 - AUG 2023
       description:
         - <b>Competences:</b> Python, DEAP, Symbolic Regression, Genetic Programming.
         - title: Achievements
@@ -49,7 +54,7 @@
             - Developed Symbolic Regression method that uses Genetic Programming to find functions for data clusters
             - Successfully integrated Symbolic Regression program in company product.
     - title: Data Science Intern
-      institution: APG, Netherlands
+      institution: APG, The Netherlands
       year: FEB 2021 - JUL 2022
       description:
         - Did research into different methods that could provide an advantage in checking correctness of data cluster formulas
@@ -68,15 +73,11 @@
   type: nested_list
   contents:
     - title: Classical Machine Learning.
-      items: 
-        - Computer Vision.
+      items:
+        - Semantic & Instance Segmentation.
+        - Object Detection.
         - Symbolic Regression.
         - Genetic Programming.
-    - title: Quantum Machine Learning.
-      items:
-        - Quantum Kernel Machine Learning.
-        - Quantum Support Vector Machines.
-        - Quantum Generative Adversarial Network.
 
 - title: Other Interests
   type: list
