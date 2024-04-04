@@ -22,12 +22,13 @@
       institution: Maastricht University, Netherlands
       year: SEP 2022 - PRESENT
       description:
-        - title: Current Courses
+        - title: Completed Courses
           contents:
             - Intelligent Search and Games
             - Foundations of Agents
             - Advanced Concepts in Machine Learning
             - Deep Learning for Image and Video Processing
+        - 7.69 GPA
     - title: B.Sc. in Data Science and Artificial Intelligence
       institution: Maastricht University, Netherlands
       year: SEP 2019 - JUL 2022
@@ -39,9 +40,14 @@
 - title: Experience
   type: time_table
   contents:
+    - title: Data Science Research Intern
+      institution: ASML, The Netherlands
+      year: FEB 2024 - PRESENT
+      description:
+        - Exploring the Interpretability-Fitness Trade-Off in Model Discovery using Genetic Programming for Lithography applications
     - title: Physics | Data Science Intern
       institution: ASML, The Netherlands
-      year: SEP 2023 - PRESENT
+      year: SEP 2023 - FEB 2024
       description:
         - Researching different Computer Vision methods for stain identification on collector mirrors
     - title: Data Scientist

@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a>Affiliations</a>. Maastricht University, APG.
+subtitle: <a>Affiliations</a>. Maastricht University, ASML, APG.
 
 profile:
   align: right
@@ -12,7 +12,7 @@ profile:
     <p>Kerkrade, The Netherlands</p>
     
 
-news: true  # includes a list of news items
+news: false  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
@@ -20,8 +20,8 @@ I am a M.Sc. student in Artificial Intelligence at [Maastricht University](https
 at the same university. During my bachelor's, I worked on applied research in Symbolic Regression combined with Genetic Algorithms on pension fund administration
 data as an AI research intern at [APG](https://apg.nl/en/).
 
-Currently, I am a Physics | Data Science research intern at [ASML](https://www.asml.com/en), where I use Computer Vision methods such as Instance Segmentation to identify certain types of stains.
-My academic interests lie in Machine Learning and Artificial Intelligence, where my current focus lies on Computer Vision. Further details can be found on the projects page, where you can find reports of previous projects I worked on.
+Currently, I am a Data Science research intern at [ASML](https://www.asml.com/en), where I focus on the interpretability-fitness trade-off in model disovery using genetic programming.
+My academic interests lie in Machine Learning and Artificial Intelligence, where my current focus lies on model discovery. Further details can be found on the projects page, where you can find reports of previous projects I worked on.
 
 In my personal time, I enjoy playing piano, guitar, and bass guitar.
 
